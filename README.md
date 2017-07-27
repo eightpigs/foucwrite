@@ -18,5 +18,16 @@ npm run build
 npm run build --report
 ```
 
+## Screenshots
+![分栏界面](https://raw.githubusercontent.com/eightpigs/foucwrite/master/Screenshots/markdown01.png)
+
+---
+
+![全屏编辑](https://github.com/eightpigs/foucwrite/blob/master/Screenshots/markdown02.png?raw=true)
+
+---
+
+![全屏阅读](https://github.com/eightpigs/foucwrite/blob/master/Screenshots/markdown03.png?raw=true)
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # foucwrite
