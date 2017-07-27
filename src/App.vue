@@ -15,6 +15,10 @@ export default {
 </script>
 
 <style>
+*{
+  font-family: "PingFang SC,Hiragino Sans GB,Helvetica Neue,Microsoft Yahei,WenQuanYi Micro Hei,sans-serif";
+  line-height: 26px;
+}
 .element::-webkit-scrollbar {display:none}
 html,body{
   height:100%;
@@ -25,7 +29,6 @@ html,body,input,textarea,div{
   background-color: #F9F9F5;
 }
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
