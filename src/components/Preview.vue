@@ -62,7 +62,7 @@ a.anchor {
   bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 20px 0 10px;
+  margin: 20px 0 20px;
   padding: 0;
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
@@ -93,7 +93,8 @@ h6 tt, h6 code {
 
 h1 {
   font-size: 28px;
-  color: black; }
+  color: black; 
+  }
 
 h2 {
   font-size: 24px;
@@ -125,7 +126,7 @@ p, blockquote, ul, ol, dl, li, table, pre {
 } */
 
  hr{
-  border: 1px solid #dadada;
+  border: 1px solid #ececec;
 } 
 
 body > h2:first-child {
