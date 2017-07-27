@@ -2,6 +2,21 @@
 
 > 专注书写 Focus on writing
 
+## Features
+
+- Columns[ Editor | Perview ]
+- Fullscreen Edit
+- Fullscreen Preview 
+
+
+## TODO LIST
+
+- export image & PDF
+- history
+- change skin
+- hot key
+
+
 ## Build Setup
 
 ``` bash
